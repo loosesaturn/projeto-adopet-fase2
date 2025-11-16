@@ -66,7 +66,7 @@ Nota: A conexão é feita no arquivo mongo_connection.php.
 ### Clonagem do Projeto
 
 1. Clone o repositório:
-git clone [https://github.com/loosesaturn/projeto-adopet-final.git]
+git clone [https://github.com/loosesaturn/projeto-adopet-fase2]
 
 2. Mova os arquivos para a pasta do XAMPP:
 
