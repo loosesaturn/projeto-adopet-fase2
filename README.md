@@ -97,7 +97,14 @@ Abra seu navegador
 
 Digite na barra de endereços: http://localhost/adopet
 
-3. Comece a usar:
+3.  **Inicialização do Banco de Dados (Script de Criação):**
+    * Para criar as coleções automaticamente e popular o banco com dados de teste, acesse no navegador:
+    * `http://localhost/adopet/setup_banco.php`
+    * Isso criará um **usuário administrador** e um **animal** para testes.
+    * **Login do Admin:** `admin@adopet.com`
+    * **Senha:** `123456`
+    
+4. Comece a usar:
 
 A página inicial da aplicação será carregada.
 Você pode fazer login ou criar uma nova conta (os dados serão salvos no MongoDB).
